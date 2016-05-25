@@ -289,4 +289,4 @@ Some examples of this pattern include:
 
 ##References##
 
-* [References](docs/references)
+* [References](/docs/references)
