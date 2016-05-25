@@ -34,8 +34,8 @@ Trust is delegated from a Principal Entity in a _trusting_ account to a Principa
 Some examples of this pattern include:
 
 * [Amazon Web Services](/docs/Amazon-Web-Services/)
-* [Google Cloud] (to be added: [Issue #4](https://github.com/devsecops/controlplane/issues/4))
-* [Microsoft Azure] (to be added: [Issue #5](https://github.com/devsecops/controlplane/issues/5))
+* [Google Cloud]() (to be added: [Issue #4](https://github.com/devsecops/controlplane/issues/4))
+* [Microsoft Azure]() (to be added: [Issue #5](https://github.com/devsecops/controlplane/issues/5))
 
 #Appendix
 
